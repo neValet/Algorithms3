@@ -1,0 +1,5 @@
+StryiskaStreet, 1000, 20,
+ZamkovaStreet, 4000, 50,
+KrushelnitskaStreet, 3000, 10,
+VahnyaninaStreet, 800, 80,
+StusaStreet, 6000, 0,
